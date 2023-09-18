@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
 import '../models/category.dart';
-import '../widgets/category.dart';
 
 
 const categories = {
